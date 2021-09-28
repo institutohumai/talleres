@@ -3,7 +3,7 @@
 Repositorio para el material de nuestros talleres gratuitos :nerd_face:
 
 - Introducción al Periodismo de Datos  
-<a href="https://colab.research.google.com/github/institutohumai/talleres/blob/master/Taller_Periodismo.ipynb"> <img src='https://colab.research.google.com/assets/colab-badge.svg' /> </a>
+<a href="https://colab.research.google.com/github/institutohumai/talleres/blob/master/Periodismo_de_datos.ipynb"> <img src='https://colab.research.google.com/assets/colab-badge.svg' /> </a>
 
 - Introducción a Python para Audio  
 <a href="https://colab.research.google.com/github/institutohumai/talleres/blob/master/Audio.ipynb"> <img src='https://colab.research.google.com/assets/colab-badge.svg' /> </a>
