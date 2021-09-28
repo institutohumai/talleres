@@ -16,6 +16,6 @@ Repositorio para el material de nuestros talleres gratuitos :nerd_face:
 
 Si te resultaron útiles estos materiales y querés apoyar nuestro trabajo en Humai, podés sumarte como contribuyente en ihum.ai/comunidad, o si no
 
-<a href='https://cafecito.app/lucasmaidana' rel='noopener' target='_blank'><img alt='Invitame un café en cafecito.app' src='https://cdn.cafecito.app/imgs/buttons/button_1.png' srcset='https://cdn.cafecito.app/imgs/buttons/button_1.png 1x, https://cdn.cafecito.app/imgs/buttons/button_1_2x.png 2x, https://cdn.cafecito.app/imgs/buttons/button_1_3.75x.png 3.75x'/></a>  
+<a href='https://cafecito.app/humai rel='noopener' target='_blank'><img alt='Invitame un café en cafecito.app' src='https://cdn.cafecito.app/imgs/buttons/button_1.png' srcset='https://cdn.cafecito.app/imgs/buttons/button_1.png 1x, https://cdn.cafecito.app/imgs/buttons/button_1_2x.png 2x, https://cdn.cafecito.app/imgs/buttons/button_1_3.75x.png 3.75x'/></a>  
 
 :blush:
