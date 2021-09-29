@@ -8,6 +8,7 @@ Repositorio para el material de nuestros talleres gratuitos :nerd_face:
 | Introducción a Python para Audio | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/institutohumai/talleres/blob/master/Audio.ipynb) | [Video](https://www.youtube.com/watch?v=K-5RFIBCsj0) |
 | Taller de Python aplicado a Audio - Parte II | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/institutohumai/talleres/blob/master/Audio_II.ipynb) | [Video](https://www.youtube.com/watch?v=FSs7vw7tUyo) |
 | Introducción al Deep Learning - Generacion de Texto con GPT-2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/institutohumai/talleres/blob/master/DL_Generacion_de_Texto.ipynb) | [Video](https://www.youtube.com/watch?v=8x27rv42pq0) |
+| Automatización | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/institutohumai/talleres/blob/master/automatizacion.ipynb) | [Video](https://youtu.be/rI9sEy4Ke-A) |
 | La importancia de las matrices para Netflix | - | [Video](https://youtu.be/_O1v_bc47lE) |
 | Medios a Contramano de la Pandemia | - | [Video](https://youtu.be/l7Ed7ffCgW8) |
 | Determinista y aleatorio de vuelta: generación de números random con Python | - | [Video](https://youtu.be/7LcFi1ODWp0) |
